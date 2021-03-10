@@ -1,0 +1,1068 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.962728293227
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.2, lambda3=0.8
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5394520137745171
+Recall = 0.9980609418282549
+F1-Score = 0.7003596073476528
+Accuracy = 0.5388872270415794
+TP = 3603
+FP = 3076
+TN = 0
+FN = 7
+ARI =  0.927703470735
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9, lambda3=0.9
+Running Theia...
+Running Theia...
+Precision = 0.5398653702318624
+Recall = 0.9997229916897507
+F1-Score = 0.7011170471102476
+Accuracy = 0.5397846245886928
+TP = 3609
+FP = 3076
+TN = 0
+FN = 1
+ARI =  0.918456041728
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.5
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.976991963408
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.1
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.974716195814
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.15000000000000002
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.979822626466
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.15000000000000002
+Precision = 0.5398653702318624
+Recall = 0.9997229916897507
+F1-Score = 0.7011170471102476
+Accuracy = 0.5397846245886928
+TP = 3609
+FP = 3076
+TN = 0
+FN = 1
+ARI =  0.921784588665
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.5, lambda3=0.8500000000000001
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.975400701
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.1
+Running Theia...
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.934483915861
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.30000000000000004, lambda3=0.9500000000000001
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.929730115913
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.5
+Running Theia...
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.93363961138
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.9500000000000001, lambda3=0.8500000000000001
+Running Theia...
+Precision = 0.5395209580838324
+Recall = 0.9983379501385041
+F1-Score = 0.7004859086491739
+Accuracy = 0.5390367932994317
+TP = 3604
+FP = 3076
+TN = 0
+FN = 6
+ARI =  0.897940350889
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.1, lambda3=0.9500000000000001
+Running Theia...
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.954089624368
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.2, lambda3=0.8500000000000001
+Running Theia...
+Running Theia...
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.927703470735
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9, lambda3=0.9500000000000001
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.911425279144
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.55
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.980360181689
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.15000000000000002
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.965265278189
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.2
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.976289139172
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.2
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.918717360225
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.5, lambda3=0.9
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.979680633294
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.15000000000000002
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.934428707236
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.0
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.906664289365
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.55
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.886574156634
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.0
+ARI =  0.93300682473
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.9500000000000001, lambda3=0.9
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.950204873528
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.2, lambda3=0.9
+Running Theia...
+Precision = 0.5395209580838324
+Recall = 0.9983379501385041
+F1-Score = 0.7004859086491739
+Accuracy = 0.5390367932994317
+TP = 3604
+FP = 3076
+TN = 0
+FN = 6
+ARI =  0.927703470735
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.0
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.539934190846545
+Recall = 1.0
+F1-Score = 0.7012432012432012
+Accuracy = 0.539934190846545
+TP = 3610
+FP = 3076
+TN = 0
+FN = 0
+ARI =  0.907050234092
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.6000000000000001
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.918717360225
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.5, lambda3=0.9500000000000001
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.974657721839
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.2
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.965265278189
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.25
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.968298285565
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.25
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.983321688319
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.2
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.972831985539
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.05
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.917577410766
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.6000000000000001
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.974554501457
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.05
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.936799243086
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.9500000000000001, lambda3=0.9500000000000001
+Running Theia...
+Running Theia...
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.946345513869
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.2, lambda3=0.9500000000000001
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.914452940129
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.05
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.904222414862
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.65
+Precision = 0.5398653702318624
+Recall = 0.9997229916897507
+F1-Score = 0.7011170471102476
+Accuracy = 0.5397846245886928
+TP = 3609
+FP = 3076
+TN = 0
+FN = 1
+ARI =  0.9261289119
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.55, lambda3=0.0
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.965402263555
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.30000000000000004
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.973211172159
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.30000000000000004
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.930402621194
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.25
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.974716195814
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.1
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.985079725848
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.25
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.987113643416
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.1
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.91138350727
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.65
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.931200975683
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.0, lambda3=0.0
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.95666445231
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.1
+Precision = 0.5395209580838324
+Recall = 0.9983379501385041
+F1-Score = 0.7004859086491739
+Accuracy = 0.5390367932994317
+TP = 3604
+FP = 3076
+TN = 0
+FN = 6
+Running Theia...
+ARI =  0.948599302501
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.25, lambda3=0.0
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.901524566498
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.7000000000000001
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.933816821589
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.55, lambda3=0.05
+Precision = 0.5395898817542284
+Recall = 0.9986149584487535
+F1-Score = 0.7006121854047225
+Accuracy = 0.5391863595572839
+TP = 3605
+FP = 3076
+TN = 0
+FN = 5
+ARI =  0.965058333333
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.35000000000000003
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.968272433273
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.35000000000000003
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.974716195814
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.15000000000000002
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.927554647669
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.30000000000000004
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.974655020156
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.30000000000000004
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.975909832784
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.15000000000000002
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.903018114029
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.7000000000000001
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+Running Theia...
+ARI =  0.634088763325
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.0, lambda3=0.05
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.922094100039
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.15000000000000002
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.980423801506
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.25, lambda3=0.05
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.901524566498
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.75
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.975400701
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.55, lambda3=0.1
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.965265278189
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.2
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.958471904706
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.4
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.95398661908
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.4
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.922549966944
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.35000000000000003
+ARI =  0.976289139172
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.2
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.945598271844
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.35000000000000003
+Running Theia...
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.906823635284
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.75
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.624483255683
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.0, lambda3=0.1
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.945262918734
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.2
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.985409305803
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.25, lambda3=0.1
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.96594976108
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.25
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.944344854545
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.8
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.975400701
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.55, lambda3=0.15000000000000002
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.951152635025
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.45
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.941749622328
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.45
+ARI =  0.96804458916
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.25
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.93042930453
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.4
+Precision = 0.5396587847949715
+Recall = 0.9988919667590028
+F1-Score = 0.7007384376214534
+Accuracy = 0.5393359258151361
+TP = 3606
+FP = 3076
+TN = 0
+FN = 4
+ARI =  0.943200135003
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.4
+Running Theia...
+Precision = 0.5398653702318624
+Recall = 0.9997229916897507
+F1-Score = 0.7011170471102476
+Accuracy = 0.5397846245886928
+TP = 3609
+FP = 3076
+TN = 0
+FN = 1
+ARI =  0.921784588665
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.55, lambda3=0.8
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.930701195673
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.9500000000000001, lambda3=0.25
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.681987113744
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.0, lambda3=0.15000000000000002
+Running Theia...
+Running Theia...
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.978140085028
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.25, lambda3=0.15000000000000002
+Running Theia...
+Running Theia...
+Running Theia...
+Running Theia...
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.969271430447
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.35000000000000003, lambda3=0.30000000000000004
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.975722779229
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.55, lambda3=0.2
+ARI =  0.947674645842
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8500000000000001, lambda2=0.15000000000000002, lambda3=0.5
+Precision = 0.5395209580838324
+Recall = 0.9983379501385041
+F1-Score = 0.7004859086491739
+Accuracy = 0.5390367932994317
+TP = 3604
+FP = 3076
+TN = 0
+FN = 6
+ARI =  0.944344854545
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.8, lambda3=0.8500000000000001
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.986450544563
+Generating data.... signal=0.1, noise=1.0, lambda1=0.75, lambda2=0.15000000000000002, lambda3=0.30000000000000004
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.961753657703
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9, lambda2=0.4, lambda3=0.5
+Precision = 0.5397276672153225
+Recall = 0.9991689750692521
+F1-Score = 0.7008646653065188
+Accuracy = 0.5394854920729883
+TP = 3607
+FP = 3076
+TN = 0
+FN = 3
+ARI =  0.91877471121
+Generating data.... signal=0.1, noise=1.0, lambda1=0.8, lambda2=0.75, lambda3=0.45
+Precision = 0.5397965290245362
+Recall = 0.9994459833795014
+F1-Score = 0.7009908684670682
+Accuracy = 0.5396350583308406
+TP = 3608
+FP = 3076
+TN = 0
+FN = 2
+ARI =  0.929730115913
+Generating data.... signal=0.1, noise=1.0, lambda1=0.9500000000000001, lambda2=0.65, lambda3=0.45
+Running Theia...
+
